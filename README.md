@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Cparsons0085
-- 👀 I’m interested in GIS development...
-- 🌱 I’m currently a student learning programming fundamentals & will soon start Geospatial Technologies...
-- 💞️ I’m looking to collaborate on anything that will help me along my learning path...
+- 👋 Hi, I’m Cristy!
+- 👀 I’m interested in software engineering and GIS development.
+- 🌱 I’m currently a student learning  Geospatial Technologies and Programming, pursing an AAS in CIT.
+- I am currently seeking an internship for GIS.
+- 💞️ I’m looking to collaborate on anything that will help me along my learning path.
 - 📫 How to reach me ... Message!
 
 <!---
